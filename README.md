@@ -1,1 +1,1 @@
-# NewCliqueRelaxation
+This project implements a branch-and-cut algorithm using the column generation technique to solve optimization problems related to the 2-stable set. Additionally, hereditary structures have been adapted for a combinatorial branch-and-bound algorithm.  Computational experiments have been conducted on various random and standard graph instances, comparing the performance of both algorithms. 
